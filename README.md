@@ -2,5 +2,5 @@
 
 Archivos de interes:
 
-Notebook.ipynb
-presentacion-power-point.pdf
+- Notebook.ipynb
+- presentacion-power-point.pdf
